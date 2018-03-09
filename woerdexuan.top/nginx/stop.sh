@@ -1,1 +1,1 @@
-nginx -s stop -c /root/develop/github/test/test.sjxfc.top/nginx/test.sjxfc.top.conf
+nginx -s stop -c /root/develop/woerdexuan.top/woerdexuan.top/nginx/nginx.conf
